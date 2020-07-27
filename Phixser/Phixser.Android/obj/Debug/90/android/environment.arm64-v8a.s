@@ -3,8 +3,8 @@
 	.section	.rodata..L.str.1,"aMS",@progbits,1
 	.type	.L.str.1, @object
 .L.str.1:
-	.asciz	"com.companyname.phixser"
-	.size	.L.str.1, 24
+	.asciz	"com.companyname.phixserdef"
+	.size	.L.str.1, 27
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	3
@@ -70,7 +70,7 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.8,"aMS",@progbits,1
 	.type	.L.str.8, @object
 .L.str.8:
-	.asciz	"5df3df3b-4049-4018-b9db-2a708450df68"
+	.asciz	"3c35cc15-6518-4819-818c-7db0fdd02971"
 	.size	.L.str.8, 37
 	.section	.rodata..L.str.9,"aMS",@progbits,1
 	.type	.L.str.9, @object

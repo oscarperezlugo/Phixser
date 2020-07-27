@@ -2,7 +2,6 @@ C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\bin\Debug\netstandard2.0\Phi
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\bin\Debug\netstandard2.0\Phixser.dll
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\bin\Debug\netstandard2.0\ref\Phixser.dll
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\bin\Debug\netstandard2.0\Phixser.pdb
-C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Debug\netstandard2.0\Phixser.csprojAssemblyReference.cache
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Debug\netstandard2.0\Chat.xaml.g.cs
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Debug\netstandard2.0\ClienPage.xaml.g.cs
