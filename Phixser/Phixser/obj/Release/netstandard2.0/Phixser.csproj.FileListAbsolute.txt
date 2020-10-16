@@ -16,3 +16,4 @@ C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Release\netstandard2.0\X
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Release\netstandard2.0\Phixser.dll
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Release\netstandard2.0\ref\Phixser.dll
 C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Release\netstandard2.0\Phixser.pdb
+C:\Users\oscar\source\repos\Phixser\Phixser\Phixser\obj\Release\netstandard2.0\Phixser.csprojAssemblyReference.cache

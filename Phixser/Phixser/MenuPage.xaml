@@ -7,7 +7,7 @@
              x:Class="Phixser.MenuPage">
     <ContentPage.Content>
         <StackLayout >
-            <Grid BackgroundColor="White" >
+            <Grid BackgroundColor="White" Padding="0,18,0,0">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="2*"/>
                     <RowDefinition Height="9*"/>
